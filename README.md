@@ -11,8 +11,7 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-![](https://i.imgur.com/4y8UyHJ.gif)
-![](https://i.imgur.com/7T5aNus.gif)
+![](./flix2.gif)
 
 ### Notes
 When creating the detailed views of the movies, I noticed some of the movies did not have backdrop posters associated with them. This resulted in an error occuring when clicking on the movie. To fix this, I added some error handling to prevent the app from breaking if a movie without a backdrop view is clicked. 
